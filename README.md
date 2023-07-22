@@ -1,24 +1,2 @@
 # Java-BigData-Projects
 Projetos Acadêmicos
-|-- Java-BigData-Projects/
-    |-- README.md
-    |-- Java/
-        |-- Projeto1/
-            |-- src/
-                |-- Main.java
-            |-- README.md
-        |-- Projeto2/
-            |-- src/
-                |-- Main.java
-            |-- README.md
-        |-- ...
-    |-- BigData/
-        |-- Projeto1/
-            |-- src/
-                |-- Main.java
-            |-- README.md
-        |-- Projeto2/
-            |-- src/
-                |-- Main.java
-            |-- README.md
-        |-- ...
